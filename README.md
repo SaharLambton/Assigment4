@@ -84,11 +84,11 @@ Once you push the changes, GitHub Actions will run the tests automatically.
 
 ### 🔹 **Workflow in GitHub Actions**
 
-![GitHub Actions Workflow](path/to/your-actions-workflow-screenshot.png)
+![GitHub Actions Workflow](![alt text](image.png))
 
 ### 🔹 **Console Test Results**
 
-![Console Test Results](path/to/your-console-test-results-screenshot.png)
+![Console Test Results](![alt text](image-1.png))
 
 ---
 
