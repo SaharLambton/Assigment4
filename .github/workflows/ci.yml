@@ -19,3 +19,6 @@ jobs:
         run: chmod +x ./node_modules/.bin/jest
       - name: Run tests
         run: npm test
+      - name: Notify on success
+        if: success()
+        run: echo "All tests passed!"
